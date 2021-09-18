@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 I am Raghav Gohil aka @The Low End. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
 
-![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo.png)
-
 What do I do? Well.. I do game dev , 2d art and sound design.
 
 In a nutshell:
@@ -41,6 +39,10 @@ Instagram : https://www.instagram.com/_the_low_end_studio_/?hl=en
 Discord : https://discord.gg/rtjkAjc
 
 Youtube : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
+
+<!-- Logo's Here -->
+
+![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo.png)
 
 ### How to create your own own profile:
 
