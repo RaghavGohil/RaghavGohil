@@ -1,4 +1,4 @@
-<!--> Header -->
+<!-- Header -->
 ### Hello Fellas,
 
 <!--
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--> About Me: -->
+<!-- About Me: -->
 
 I am Raghav Gohil aka @The Low End. A game developer by passion. I have a company called <a href="url">Low End Studios</a>.
