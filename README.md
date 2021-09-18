@@ -44,6 +44,8 @@ Youtube : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
 
 [![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Logo's Here -->
 
 ![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo.png)
