@@ -1,5 +1,5 @@
 <!-- Header -->
-### Hello Fellas,
+### Hello fellas,
 
 <!--
 **RaghavGohil/RaghavGohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 <!-- About Me: -->
 
 I am Raghav Gohil aka @The Low End. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
+
+### How to create your own own profile:
+
+You maybe wondering how people create profiles like this. Right? <a href="https://low-end-studios.itch.io/">This is a website which will help you</a>.
