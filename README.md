@@ -22,4 +22,4 @@ I am Raghav Gohil aka @The Low End. A game developer by passion. I have a home s
 
 ### How to create your own own profile:
 
-You maybe wondering how people create profiles like this. Right? <a href="https://low-end-studios.itch.io/">This is a website which will help you</a>.
+You maybe wondering how people create profiles like this. Right? <a href="https://aboutmonica.com/blog/how-to-create-a-github-profile-readme">This is a website which will help you</a>. 
