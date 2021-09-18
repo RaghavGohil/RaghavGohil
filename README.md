@@ -42,4 +42,6 @@ Youtube : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
 
 ### How to create your own own profile:
 
-You maybe wondering how people create profiles like this. Right? <a href="https://aboutmonica.com/blog/how-to-create-a-github-profile-readme">This is a website which will help you</a> (using markdown language). 
+You maybe wondering how people create profiles like this. Right? <a href="https://aboutmonica.com/blog/how-to-create-a-github-profile-readme">This is a website which will help you</a>.
+
+*Made With Markdown Language*
