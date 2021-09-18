@@ -28,7 +28,7 @@ In a nutshell:
 - 🌱 I’m currently learning ... Learning to do.. stuff?
 - 👯 I’m looking to collaborate on ... Game Development Projects.
 - 🤔 I’m looking for help with ... **DIY**
-- ⚡ Fun fact: I am from India :>.
+- ⚡ Fun fact: I like this ':>' emoji uwu.
 
 ### Contact Me:
 
@@ -44,7 +44,7 @@ Youtube : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
 
 [![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Logo's Here -->
 
