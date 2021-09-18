@@ -42,9 +42,11 @@ Youtube : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
 
 ### Stats:
 
-[![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil)](https://github.com/anuraghazra/github-readme-stats)
+[![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
-[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+
 
 <!-- Logo's Here -->
 
