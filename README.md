@@ -1,3 +1,4 @@
+<!--> Header -->
 ### Hello Fellas,
 
 <!--
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--> About Me: -->
+
+I am Raghav Gohil aka @The Low End. A game developer by passion. I have a company called <a href="url">Low End Studios</a>.
