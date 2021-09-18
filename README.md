@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am Raghav Gohil aka @The Low End. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
 
-(https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo.png)
+![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo.png)
 
 What do I do? Well.. I do game dev , 2d art and sound design.
 
