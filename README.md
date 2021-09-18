@@ -32,13 +32,13 @@ In a nutshell:
 
 ### Contact Me:
 
-Email : raghav15102004@gmail.com
+**Email** : raghav15102004@gmail.com
 
-Instagram : https://www.instagram.com/_the_low_end_studio_/?hl=en
+**Instagram** : https://www.instagram.com/_the_low_end_studio_/?hl=en
 
-Discord : https://discord.gg/rtjkAjc
+**Discord** : https://discord.gg/rtjkAjc
 
-Youtube : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
+**Youtube** : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
 
 ### Stats:
 
