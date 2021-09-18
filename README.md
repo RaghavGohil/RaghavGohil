@@ -24,10 +24,10 @@ I am Raghav Gohil aka **@The Low End**. A game developer by passion. I have a ho
 
 In a nutshell:
 
-- 🔭 I’m currently working on ... Graphics development (using modern opengl) + sound design
+- 🔭 I’m currently working on ... Graphics development (using modern opengl) + sound design.
 - 🌱 I’m currently learning ... Learning to do.. stuff?
 - 👯 I’m looking to collaborate on ... Game Development Projects.
-- 🤔 I’m looking for help with ... **DIY**
+- 🤔 I’m looking for help with ... **DIY.**
 - ⚡ Fun fact: I like this ':>' emoji uwu.
 
 ### Contact Me:
