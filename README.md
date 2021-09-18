@@ -42,10 +42,10 @@ Youtube : https://www.youtube.com/channel/UCAdOIV3VvgJjfx3sFwVghfQ
 
 ### Stats:
 
-[![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Logo's Here -->
