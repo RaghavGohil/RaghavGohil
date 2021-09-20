@@ -54,7 +54,7 @@ In a nutshell:
 
 <!-- Logo's Here -->
 
-![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo.png)
+![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo_Transparent.png)
 
 ### How to create your own own profile:
 
