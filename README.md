@@ -56,6 +56,10 @@ In a nutshell:
 
 ![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo_Transparent.png)
 
+### Random joke for you:
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 ### How to create your own own profile:
 
 You maybe wondering how people create profiles like this. Right? <a href="https://aboutmonica.com/blog/how-to-create-a-github-profile-readme">This is a website which will help you</a>.
