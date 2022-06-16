@@ -51,11 +51,6 @@ In a nutshell:
 
 [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!-- Logo's Here -->
-
-![](https://github.com/RaghavGohil/RaghavGohil/blob/main/Assets/Logo_Transparent.png)
-
 ### Random joke for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
