@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
 <!-- Header -->
 ### Hello fellas,
 
@@ -22,6 +24,9 @@ I am Raghav Gohil aka **@The Low End**. A game developer by passion. I have a ho
 
 🤔What do I do? Well.. I do game dev , 2d art and sound design (also I like to do large projects which I will abandon later lol).
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
 In a nutshell:
 
 - 🔭 I’m currently working on ... Graphics development (using modern opengl) + sound design + art.
@@ -30,9 +35,15 @@ In a nutshell:
 - 🤔 I’m looking for help with ... Passionate people who love game development.
 - ⚡ Fun fact: I like this ':>' emoji uwu.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
 ### Profile Views:
 
-![](https://count.getloli.com/get/@RaghavGohil.github.readme)
+<img src="https://count.getloli.com/get/@RaghavGohil" alt="If this is showing up then moe counter is not working." />
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
 ### Stats:
@@ -42,9 +53,15 @@ In a nutshell:
 
 [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
 ### Random joke for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
 
 ### Contact Me:
 
@@ -52,8 +69,14 @@ In a nutshell:
 
 https://linktr.ee/thelowend
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
 ### How to create your own own profile:
 
 You maybe wondering how people create profiles like this. Right? <a href="https://aboutmonica.com/blog/how-to-create-a-github-profile-readme">This is a website which will help you</a>.
 
 *Made With Markdown.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
