@@ -30,11 +30,10 @@ In a nutshell:
 - 🤔 I’m looking for help with ... Passionate people who love game development.
 - ⚡ Fun fact: I like this ':>' emoji uwu.
 
-### Contact Me:
+### Profile Views:
 
-**Email** : raghav15102004@gmail.com
-
-https://linktr.ee/thelowend
+![](https://count.getloli.com/get/@akshaynarisetti.github.readme)
+</br>
 
 ### Stats:
 
@@ -46,6 +45,12 @@ https://linktr.ee/thelowend
 ### Random joke for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+### Contact Me:
+
+**Email** : raghav15102004@gmail.com
+
+https://linktr.ee/thelowend
 
 ### How to create your own own profile:
 
