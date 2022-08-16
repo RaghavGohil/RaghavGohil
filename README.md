@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 
 <!-- About Me: -->
 
+### About Me:
+
 I am Raghav Gohil aka **The Low End**. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
 
 🤔What do I do? Well.. I do game dev , 2d art and sound design (also I like to do large projects which I will abandon later lol).
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
 
 In a nutshell:
 
