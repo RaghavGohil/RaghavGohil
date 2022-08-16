@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
+![HEY, I'M RAGHAV!](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
 
 <!-- Header -->
 ### Hello fellas,
