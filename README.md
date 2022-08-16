@@ -77,9 +77,9 @@ In a nutshell:
 
 ### Contact Me:
 
-**Email** : raghav15102004@gmail.com
+Email: raghav15102004@gmail.com
 
-https://linktr.ee/thelowend
+Linktree: https://linktr.ee/thelowend
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
