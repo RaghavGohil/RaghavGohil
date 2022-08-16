@@ -57,9 +57,16 @@ In a nutshell:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
+### 🔥 Github Streaks:
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavgohil&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oops" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
 ### Profile Views:
 
-<img src="https://count.getloli.com/get/@RaghavGohil" alt="If this is showing up then moe counter is not working." />
+<img src="https://count.getloli.com/get/@RaghavGohil" alt="Oops." />
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
