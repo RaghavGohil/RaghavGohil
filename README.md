@@ -1,7 +1,4 @@
-![HEY, I'M RAGHAV!](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
-
-<!-- Header -->
-### Hello fellas,
+![HEY, I'M RAGHAV](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
 
 <!--
 **RaghavGohil/RaghavGohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- About Me: -->
 
-I am Raghav Gohil aka **@The Low End**. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
+I am Raghav Gohil aka **The Low End**. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
 
 🤔What do I do? Well.. I do game dev , 2d art and sound design (also I like to do large projects which I will abandon later lol).
 
