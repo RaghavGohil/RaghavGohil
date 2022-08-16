@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
+![Logosmoll2](https://user-images.githubusercontent.com/71706645/184812757-f1f4b79b-6d1e-4e2d-b014-57feb99726f5.png)
 
 <!--
 **RaghavGohil/RaghavGohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
