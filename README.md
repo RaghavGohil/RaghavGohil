@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
 ![Logosmoll2](https://user-images.githubusercontent.com/71706645/184812757-f1f4b79b-6d1e-4e2d-b014-57feb99726f5.png)
 
 <!--
@@ -45,17 +48,10 @@ In a nutshell:
 
 ### Stats:
 
-[![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
-### Random joke for you:
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
