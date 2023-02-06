@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
-![Logosmoll2](https://user-images.githubusercontent.com/71706645/184812757-f1f4b79b-6d1e-4e2d-b014-57feb99726f5.png)
-
 <!--
 **RaghavGohil/RaghavGohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,17 +20,17 @@ Here are some ideas to get you started:
 
 ### About Me:
 
-I am Raghav Gohil aka **The Low End**. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
+I am Raghav Gohil. A game developer by passion. I have a home studio called <a href="https://low-end-studios.itch.io/">Low End Studios</a>.
 
 🤔What do I do? Well.. I do game dev , 2d art and sound design (also I like to do large projects which I will abandon later lol).
 
 In a nutshell:
 
-- 🔭 I’m currently working on ... Graphics development (using modern opengl) + sound design + art.
-- 🌱 I’m currently learning ... Life.
-- 👯 I’m looking to collaborate on ... Game Development Projects.
-- 🤔 I’m looking for help with ... Passionate people who love game development.
-- ⚡ Fun fact: I like this ':>' emoji uwu.
+- 🔭 I’m currently working on ... the low end studio website + sound design + art + gamedev.
+- 🌱 I’m currently learning ... the art of life.
+- 👯 I’m looking to collaborate on ... game development projects.
+- 🤔 I’m looking for help with ... passionate people who love game development.
+- ⚡ Fun fact: pretend this is a fun-fact.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
