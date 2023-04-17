@@ -73,7 +73,7 @@ Good news: I have started using vim so I'll be 10x faster (hopefully).
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔥 Github Streaks:
-<img alt="GIF" align="left" height="250" width="500" src="https://media.tenor.com/RV57Sqbt5r0AAAAM/woah-wow.gif">
+<img alt="GIF" align="left" height="250" width="250" src="https://media.tenor.com/RV57Sqbt5r0AAAAM/woah-wow.gif">
 
 <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavgohil&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oops" /></p>
 </br></br>
@@ -82,7 +82,7 @@ Good news: I have started using vim so I'll be 10x faster (hopefully).
 
 ### 📈Stats:
 
-<img alt="GIF" align="right" height="600" width="500" src="https://media.tenor.com/RsjutCDdpg0AAAAS/spinning-monkey.gif">
+<img alt="GIF" align="right" height="300" width="200" src="https://media.tenor.com/RsjutCDdpg0AAAAS/spinning-monkey.gif">
 
 <img src="https://count.getloli.com/get/@RaghavGohil" alt="Oops." />
 </br>
