@@ -99,7 +99,7 @@ Email: raghavgohil2004@gmail.com
 
 ## 🤔How to create your own own profile:
 
-You maybe wondering how people create profiles like this. Right? <a href="https://aboutmonica.com/blog/how-to-create-a-github-profile-readme">This is a website which will help you</a>.
+You maybe wondering how people create awesome profiles like this, right? <a href="https://aboutmonica.com/blog/how-to-create-a-github-profile-readme">This is a website which will help you</a>.
 
 *Made With Markdown.*
 
