@@ -35,7 +35,15 @@ Also I like to do large projects which I will abandon later lol. 😅
 
 - ⚡ Fun fact - I can do handstand, roundoffs and other cool stuff. Also, my most favourite anime is Initial D. (becaus car vroom vroom)
 
+- ⚡⚡ Fun fact 2 - I love monkeys.
+
 I make games so of course I love gaming. Duh! (Not a hardcore gamer tho. 🎮🎮)
+
+P.S.
+
+Good news: I have started using vim so I'll be 10x faster (hopefully).
+
+![](https://media.tenor.com/xl-PA-sk1LcAAAAS/vim-my-beloved.gif)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -68,15 +76,18 @@ I make games so of course I love gaming. Duh! (Not a hardcore gamer tho. 🎮�
 <img alt="GIF" align="left" height="250" width="500" src="https://media.tenor.com/RV57Sqbt5r0AAAAM/woah-wow.gif">
 
 <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavgohil&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oops" /></p>
+</br></br>
 
-</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 📈Stats:
+
+<img alt="GIF" align="right" height="600" width="500" src="https://media.tenor.com/RsjutCDdpg0AAAAS/spinning-monkey.gif">
 
 <img src="https://count.getloli.com/get/@RaghavGohil" alt="Oops." />
 </br>
 
 [![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
