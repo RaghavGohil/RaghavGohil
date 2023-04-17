@@ -82,7 +82,7 @@ Good news: I have started using vim so I'll be 10x faster (hopefully).
 
 ### 📈Stats:
 
-<img alt="GIF" align="right" height="300" width="200" src="https://media.tenor.com/RsjutCDdpg0AAAAS/spinning-monkey.gif">
+<img alt="GIF" align="right" height="600" width="400" src="https://media.tenor.com/RsjutCDdpg0AAAAS/spinning-monkey.gif">
 
 <img src="https://count.getloli.com/get/@RaghavGohil" alt="Oops." />
 </br>
