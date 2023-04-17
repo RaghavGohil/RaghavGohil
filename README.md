@@ -82,14 +82,12 @@ Good news: I have started using vim so I'll be 10x faster (hopefully).
 
 ### 📈Stats:
 
-<img alt="GIF" align="right" height="600" width="400" src="https://media.tenor.com/RsjutCDdpg0AAAAS/spinning-monkey.gif">
-
 <img src="https://count.getloli.com/get/@RaghavGohil" alt="Oops." />
 </br>
 
-[![Raghav Gohil's Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=graywhite" />
 
-[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGohil&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavGohil&theme=graywhite" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
