@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img alt="GIF" align="right" height="250" src="https://media.tenor.com/EfhPfbG0hnMAAAAC/slap-handa-seishuu.gif">
 
-Hey there!!! I am Raghav Gohil, student at Dwarkadas J Sanghvi College of Engineering. A <a href="https://low-end-studios.itch.io/">game</a> developer by passion. I love making 2d art and music too!
+Hey there!!! I am Raghav Gohil, student at Dwarkadas J Sanghvi College of Engineering. I am a <a href="https://low-end-studios.itch.io/">game</a> developer by passion. I love making 2d art and music too!
 
 Also I like to do large projects which I will abandon later lol. 😅
 
