@@ -74,7 +74,7 @@ Good news: I have started using vim so I'll be 10x faster (hopefully).
 
 ### 📈Stats:
 
-<img src="https://count.getloli.com/get/@RaghavGohil" alt="Oops." />
+<img src="https://count.getloli.com/get/@:RaghavGohil" alt="Oops." />
 </br>
 
 <img alt="GIF" align="right" height="500" width="500" src="https://media.tenor.com/RV57Sqbt5r0AAAAM/woah-wow.gif">
