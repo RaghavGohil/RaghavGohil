@@ -77,7 +77,7 @@ Good news: I have started using vim so I'll be 10x faster (hopefully).
 <img src="https://count.getloli.com/get/@:RaghavGohil" alt="Oops." />
 </br>
 
-<img alt="GIF" align="right" height="400" width="400" src="https://media.tenor.com/RV57Sqbt5r0AAAAM/woah-wow.gif">
+<img alt="GIF" align="right" height="300" width="300" src="https://media.tenor.com/RV57Sqbt5r0AAAAM/woah-wow.gif">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=graywhite" />
 
