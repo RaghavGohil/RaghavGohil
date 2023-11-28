@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!-- About Me: -->
 
 ### 😁About Me:
-
-<img alt="GIF" align="right" height="250" src="https://github.com/RaghavGohil/RaghavGohil/assets/71706645/76fdff9b-cdbc-4ef6-8f25-7e9758d8572c">
+<img alt="GIF" align="right" height="500" src="https://media.tenor.com/XupkPVpth00AAAAC/jinx-the-cat-jinx.gif">
 
 Hey there!!! I am Raghav Gohil, student at Dwarkadas J Sanghvi College of Engineering. I am a <a href="https://thelowendstudio.com">game</a> developer by passion. I love making 2d art and music too!
 
