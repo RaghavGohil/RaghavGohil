@@ -1,24 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**RaghavGohil/RaghavGohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> <!-- Zombie Code Please Ignore>
-
-<!-- About Me: -->
-
 ### 😁About Me:
-<img alt="GIF" align="right" height="500" src="https://media.tenor.com/XupkPVpth00AAAAC/jinx-the-cat-jinx.gif">
 
 Hey there!!! I am Raghav Gohil, student at Dwarkadas J Sanghvi College of Engineering. I am a <a href="https://thelowendstudio.com">game</a> developer by passion. I love making 2d art and music too!
 
@@ -41,6 +23,10 @@ I make games so of course I love gaming. Duh! (Not a hardcore gamer tho. 🎮�
 P.S.
 
 Good news: I have started using vim so I'll be 10x faster (hopefully).
+
+P.S. 2
+
+I use neovim now.
 
 ![](https://media.tenor.com/xl-PA-sk1LcAAAAS/vim-my-beloved.gif)
 
