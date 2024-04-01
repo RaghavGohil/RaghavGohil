@@ -44,4 +44,5 @@ I am Raghav Gohil, student at Dwarkadas J Sanghvi College of Engineering. I am a
 <br>
 
 # 📈Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=graywhite) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaghavGohil&theme=graywhite)
+![Stats](https://github-readme-stats.vercel.app/api?username=RaghavGohil&theme=graywhite) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaghavGohil&theme=graywhite)
+|--|--|
